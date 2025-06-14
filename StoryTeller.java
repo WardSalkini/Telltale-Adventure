@@ -59,7 +59,7 @@ public class StoryTeller {
 				"The mall is creepy and silent. You pass a pharmacy.\n"
 						+ " You are low on time, but there might be medicine or food inside.\n"
 						+ " Do you take a minute to search it?\n",
-				"Search the Pharmacy", N6, "Keep Moving", E10, false, "N5B");
+				"Search the Pharmacy", E10, "Keep Moving", N6, false, "N5B");
 
 		// #NODE N4A - #THE SURVIVOR#
 		StoryNode N4A = new StoryNode(
