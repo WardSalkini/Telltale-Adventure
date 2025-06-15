@@ -124,7 +124,7 @@ public class StoryNode {
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="500" alt="Game Start Screen" src="Telltale Adventure/photos/E1.jpg">|<img width="500" alt="Choice Selection" src="Telltale Adventure/photos/E2.jpg">|
+|<img width="500" alt="Game Start Screen" src="photos/E1.jpg">|<img width="500" alt="Choice Selection" src="Telltale Adventure/photos/E2.jpg">|
 |<img width="500" alt="Story Progression" src="Telltale Adventure/photos/N5A.jpg">|<img width="500" alt="Game Ending" src="Telltale Adventure/photos/N3A.jpg">|
 
 ---
